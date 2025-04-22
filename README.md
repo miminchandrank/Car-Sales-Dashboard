@@ -47,12 +47,6 @@ Welcome to my latest project! This **Power BI Sales Dashboard** is tailored for 
 
 ---
 
-## 📂 Repository Structure
-
-- `car_sales_dashboard.pbix` – Power BI Dashboard file  
-- `car_sales_data.xlsx` – Cleaned dataset used for analysis  
-- `images/` – Dashboard preview screenshots  
-- `README.md` – Project documentation  
 
 ---
 
