@@ -47,9 +47,6 @@ Welcome to my latest project! This **Power BI Sales Dashboard** is tailored for 
 
 ---
 
-
----
-
 ## 📣 Let’s Connect
 
 I’d love to hear your feedback!  
@@ -60,3 +57,10 @@ Let’s connect on [LinkedIn](https://www.linkedin.com/in/your-link) and talk ab
 
 **🗓️ Last Updated**: April 2025  
 **Created by**: [Mimin Chandran K](https://www.linkedin.com/in/your-link)
+
+---
+
+## 🎬 Demo Video
+
+Watch the demo of the Power BI Car Sales Dashboard on LinkedIn:  
+[View Demo Video](https://www.linkedin.com/posts/miminchandrank_powerbi-carsalesdashboard-automotiveanalytics-activity-7302708157582032898-dleZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFD4aN8BBSizqogKnOr2eBg_WSmXdqUej4w)
